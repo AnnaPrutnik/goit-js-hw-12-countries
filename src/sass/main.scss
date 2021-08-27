@@ -7,7 +7,8 @@
 body {
   margin: 0;
   font-family: Helvetica, sans-serif;
-  font-size: 12px;
+  font-size: 18px;
+  background-color: white;
 }
 
 img {
@@ -22,12 +23,12 @@ img {
   border: 1px solid rgb(139, 137, 137);
   border-radius: 5px;
   margin: 15px 0 15px 30px;
-  padding: 5px;
+  padding: 15px;
 }
 
 .country-info {
-  width: 70%;
-  margin: auto;
+  width: 50%;
+  margin: 50px 0 0 100px;
 }
 
 .country-card__title {
@@ -54,7 +55,7 @@ img {
 }
 
 .cards-list__item {
-  margin-top: 10px;
+  margin-top: 15px;
   padding-left: 5px;
 }
 
@@ -63,10 +64,9 @@ img {
 }
 
 .language-list__item {
-  margin-top: 5px;
+  margin-top: 15px;
 }
 
 .pnotify-pre-line {
-  font-size: 12px;
-  line-height: 0;
+  font-size: 16px;
 }
